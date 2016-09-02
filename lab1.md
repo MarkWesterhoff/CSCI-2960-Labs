@@ -12,7 +12,7 @@ Summary: The free access of source code, without discrimination or restricted di
 d. Linux
 
 3. Tree Man Page
-![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/tree-man-page.png "Tree Man Page")
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/tree-man-page.png)
 
 
 
@@ -21,19 +21,23 @@ e. Regex
 Problem Solutions:
 
 1. ^-?\d+(,\d+)*(\.\d+)?(e\d+)?$
-![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/regex_1.png)
-
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_1.png)
 
 2. (\d{3})
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_2.png)
 
 3. ([^@+]+)
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_3.png)
 
 4. <(.*?)[\s>]
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_4.png)
 
 5. (.+)\.(jpg|png|gif)$
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_5.png)
 
 6. ^\s*(.*)\s*$
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_6.png)
 
 7. at.*\.(\w+)\((.+):(\d+)\)
-
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_7.png)
 

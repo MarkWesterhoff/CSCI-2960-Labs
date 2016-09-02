@@ -12,3 +12,4 @@ Summary: The free access of source code, without discrimination or restricted di
 d. Linux
 
 3. Tree Man Page
+![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/tree-man-page.png "Tree Man Page")

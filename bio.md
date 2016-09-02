@@ -8,5 +8,3 @@ Slack Handle: westem
 
 Photo:
 ![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/selfie.jpg "Selfie")
-
-Reference-style: 

@@ -18,7 +18,7 @@ d. Linux
 
 e. Regex
 
-Problem Solutions:
+RegexOne:
 
 1. ^-?\d+(,\d+)*(\.\d+)?(e\d+)?$
 ![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_1.png)
@@ -40,4 +40,21 @@ Problem Solutions:
 
 7. at.*\.(\w+)\((.+):(\d+)\)
 ![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regex_7.png)
+
+
+RegexCrossword:
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/regexcrossword.png)
+
+
+f. Blocky Problem
+
+My Solution:
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/blockyprob_1.png)
+
+It works:
+![](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab1pics/blockyprob_ans.png)
+
+
+
+g. Reflection
 

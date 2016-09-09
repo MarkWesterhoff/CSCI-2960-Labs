@@ -12,6 +12,7 @@ A project without an explicit license is treated as ALL rights reserved (i.e. co
 
 
 9. 5 RCOS Projects
+
 Website                                   License Present   License 
 
 https://github.com/Behemyth/Soul-Engine   Yes               GPLv3

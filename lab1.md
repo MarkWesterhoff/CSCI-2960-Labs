@@ -72,3 +72,9 @@ It works:
 
 g. Reflection
 
+Looking for a project that interests me:
+1. Following links from the class "links for possible projects" page: [here](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/LinksforPossibleProjects.md)
+
+2. Another link dump you gave us: [here](https://github.com/rcos/CSCI2961-01-Fall2016/blob/master/Howto/LargeOpenSourceProjects.md)
+
+3. Most likely will find something off of OpenHatch; I've used it before. Also, trying to find a project using C++11

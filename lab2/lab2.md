@@ -13,14 +13,14 @@ A project without an explicit license is treated as ALL rights reserved (i.e. co
 
 9. 5 RCOS Projects
 
-Website                                   License Present   License 
+Website                |   License Present   | License 
 
-https://github.com/Behemyth/Soul-Engine   Yes               GPLv3
+https://github.com/Behemyth/Soul-Engine  | Yes   |            GPLv3
 
-http://www.submitty.org/                  Yes               BSD 
+http://www.submitty.org/             |     Yes     |          BSD 
 
-https://github.com/AutoRoute/node         Yes               MIT
+https://github.com/AutoRoute/node     |    Yes      |         MIT
 
-https://github.com/olivierpo/minebot.git  Yes               MIT
+https://github.com/olivierpo/minebot.git  |  Yes       |        MIT
 
-http://sharpnav.com/                      Yes               MIT
+http://sharpnav.com/             |         Yes        |       MIT

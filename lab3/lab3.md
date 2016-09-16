@@ -7,12 +7,12 @@ Link to the completely pointless repo:
 
 gitk -all:
 
-![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab3/part1branches_1.jpg "gitk")
+![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab3/part1branches_1.png "gitk")
 
 
 git log --graph --oneline --decorate:
 
-![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab3/part1branches_2.jpg "git log")
+![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab3/part1branches_2.png "git log")
 
 
 

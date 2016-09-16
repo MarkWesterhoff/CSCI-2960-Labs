@@ -19,4 +19,10 @@ git log --graph --oneline --decorate:
 
 Part 2
 
+Forked Repo link:
+[link](https://github.com/MarkWesterhoff/Spoon-Knife.git)
 
+
+Git branching tutorial:
+
+![alt text](https://github.com/MarkWesterhoff/CSCI-2960-Labs/blob/master/lab3/part2tutorial.png "git log")
